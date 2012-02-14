@@ -1,3 +1,7 @@
+# Copyright (C) 2012, Parrot Foundation
+
+=pod
+
 =head1 NAME
 
 README - Readme file for Parrot's 'parrot-docs4' documentation repository.
@@ -5,18 +9,11 @@ README - Readme file for Parrot's 'parrot-docs4' documentation repository.
 =head1 DESCRIPTION
 
 The purpose of this README is to record the fact that this repository contains 
-the documentation for version 4[1] of Parrot. In short, this repository is, 
-in-the-main, about maintaining a set of all of Parrot's documentation on 
-github.
-
-=head1 NOTE
-
-[1] At the present time, I<i.e.,> January 8, 2012, version of 4 of 
-the documentation does not exist and, consequently, is not in this repository.
-This will, of course, change over time.
+or will contain all of the documentation for version 4.0.0 through version 
+4.11.0 of Parrot.
 
 =head1 COPYRIGHT
 
-Copyright (C) 2011, Parrot Foundation.
+Copyright (C) 2001-2012, Parrot Foundation.
 
 =cut
